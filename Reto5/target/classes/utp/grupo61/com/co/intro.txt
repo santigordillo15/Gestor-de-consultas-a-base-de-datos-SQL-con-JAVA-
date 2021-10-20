@@ -1,0 +1,4 @@
+--implementacion de un modelo vista controlador para conectar java con una base de datos relacional
+
+-- cuando dos sofware(java-Sql) se hablan entre si, debemos utilizar una API(AplicatationProgramingInterfaz)--> en java se conoce como JDBC( Java Data base conexion )
+
